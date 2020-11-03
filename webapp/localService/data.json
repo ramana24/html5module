@@ -1,0 +1,129 @@
+{
+	"EmployeeDetails":
+	[
+	  
+	  {
+		"Name": "Haritha Devi",
+		"Street": "Budock Road",
+		"City": "Auckland",
+		"country" : "New Zealand",
+		"Pincode": "1024",
+	"Product": [{
+		"id": "123",
+		"PName":"Orange",
+		"quantity": "1kg",
+		"Numberunit": "Rupees",
+		"Price": "50"
+		
+	},
+	{
+		"id": "123",
+		"PName":"Apple",
+		"quantity": "1kg",
+		"Numberunit": "Rupees",
+		"Price": "50"
+		
+	}]
+			
+		},
+		{
+		"Name": "Haritha Devi",
+		"Street": "Budock Road",
+		"City": "Auckland",
+		"country" : "New Zealand",
+		"Pincode": "1024",
+	"Product": {
+		"id": "123",
+		"PName":"Orange",
+		"quantity": "1kg",
+		"Numberunit": "Rupees",
+		"Price": "50"
+		
+	}
+			
+		},
+		{
+		"Name": "Haritha Devi",
+		"Street": "Budock Road",
+		"City": "Auckland",
+		"country" : "New Zealand",
+		"Pincode": "1024",
+	"Product": {
+		"id": "123",
+		"PName":"Orange",
+		"quantity": "1kg",
+		"Numberunit": "Rupees",
+		"Price": "50"
+		
+	}
+			
+		},
+		{
+		"Name": "Haritha Devi",
+		"Street": "Budock Road",
+		"City": "Auckland",
+		"country" : "New Zealand",
+		"Pincode": "1024",
+	"Product": {
+		"id": "123",
+		"PName":"Orange",
+		"quantity": "1kg",
+		"Numberunit": "Rupees",
+		"Price": "50"
+		
+	}
+			
+		},
+		{
+		"Name": "Haritha Devi",
+		"Street": "Budock Road",
+		"City": "Auckland",
+		"country" : "New Zealand",
+		"Pincode": "1024",
+	"Product": {
+		"id": "123",
+		"PName":"Orange",
+		"quantity": "1kg",
+		"Numberunit": "Rupees",
+		"Price": "50"
+		
+	}
+			
+		},
+		{
+		"Name": "Haritha Devi",
+		"Street": "Budock Road",
+		"City": "Auckland",
+		"country" : "New Zealand",
+		"Pincode": "1024",
+	"Product": {
+		"id": "123",
+		"PName":"Orange",
+		"quantity": "1kg",
+		"Numberunit": "Rupees",
+		"Price": "50"
+		
+	}
+			
+		},
+		{
+		"Name": "Haritha Devi",
+		"Street": "Budock Road",
+		"City": "Auckland",
+		"country" : "New Zealand",
+		"Pincode": "1024",
+	"Product": {
+		"id": "123",
+		"PName":"Orange",
+		"quantity": "1kg",
+		"Numberunit": "Rupees",
+		"Price": "50"
+		
+	}
+			
+		}
+		
+
+
+	]
+}

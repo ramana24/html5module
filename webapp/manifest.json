@@ -14,8 +14,19 @@
 		"sourceTemplate": {
 			"id": "html5moduletemplates.basicSAPUI5ApplicationProjectModule",
 			"version": "1.40.12"
-		}
-	},
+        },
+
+    
+        "dataSources": {
+ 
+      "mydata_source": {
+        "uri": "localService/data.json",
+        "type": "JSON"
+      }
+    }
+
+    
+    },
 	
 	"sap.ui": {
 		"technology": "UI5",
@@ -60,7 +71,12 @@
 				"settings": {
 					"bundleName": "sap.cp.HTML5Module.i18n.i18n"
 				}
-			}
+            },
+            
+             "myjsonmodel":{
+        "type": "sap.ui.model.json.JSONModel",
+        "dataSource": "mydata_source"
+      }
 		},
 		"resources": {
 			"css": [{

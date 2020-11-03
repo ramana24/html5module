@@ -4,7 +4,19 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
-                    
+                    <VBox id="idMain">
+                    <Text text="UX Essentials"></Text>
+
+                    <Text text="Exercise 1: Core Concepts- Life Cycle Methods Illustration"> </Text>
+
+                    <Text text="Exercise 2: Different Models - Usage Illustration " ></Text>
+<Label text="First Name"></Label>
+<Input value="{/firstName}"></Input>
+
+<Label text="Last Name"></Label>
+<Input value="{/lastName}"></Input>
+</VBox>
+
                     </content>
 				</Page>
 			</pages>
